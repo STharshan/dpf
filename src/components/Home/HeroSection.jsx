@@ -54,7 +54,7 @@ const HeroSection = () => {
           data-aos="fade-up"
           data-aos-delay="300"
         >
-          Bodywork Repairs Newcastle
+          DPF Auto Services
         </p>
 
         {/* CTA Button */}
